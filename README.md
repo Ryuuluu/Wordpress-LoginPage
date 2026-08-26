@@ -4,3 +4,7 @@ This is a useful login page because it is designed solely for redirecting or spo
 ## Preview
 
 ![Preview Login Page](preview.png)
+
+## Disclaimer
+
+This project was created solely for educational purposes (such as phishing demonstrations or security testing) and is not connected to any backend. The WordPress logo and name are registered trademarks of the WordPress Foundation. This project is not affiliated with, endorsed by, or sponsored by WordPress.
